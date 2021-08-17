@@ -2,7 +2,7 @@ Interface logs added request time ($ request_time in nginx
 [http://nginx.org/en/docs/http/ngx_http_log_module.html#log_format](http://nginx.org/en/docs/http/ngx_http_log_module.html#log_format). Now you can parse the logs and run
 primary analysis by identifying suspicious URLs
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/a6m5zero/nginx-Log-Analyzer/blob/main/screen.png)
 
 
 ## Usage
